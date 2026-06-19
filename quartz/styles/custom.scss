@@ -1,0 +1,113 @@
+@use "./variables.scss" as *;
+
+// ============================================================
+//  DOOM x 40K — league theme extras
+//  Colors use Quartz theme variables so they adapt light/dark.
+// ============================================================
+
+// Page title (the article-title component, sits above the article)
+.article-title {
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+.article-title::after {
+  content: "";
+  display: block;
+  width: 160px;
+  height: 5px;
+  margin-top: 0.5rem;
+  background: repeating-linear-gradient(
+    -45deg,
+    #ff8100 0px, #ff8100 6px,
+    var(--light) 6px, var(--light) 12px
+  );
+}
+
+// ---- Scoped to article = content only, sidebars untouched ----
+article {
+
+  // ## headings → section plates, flush to the panel beneath
+  h2 {
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-weight: 700;
+    font-size: 1.2rem;
+    color: var(--dark);
+    background: var(--lightgray);
+    border-left: 4px solid var(--tertiary);
+    padding: 0.5rem 0.9rem;
+    margin: 2.2rem 0 0 0;   // zero bottom margin → connects to content
+  }
+  h2::before {
+    content: "// ";
+    color: var(--secondary);
+    font-family: "VT323", monospace;
+    font-weight: 400;
+  }
+
+  // ### headings → lighter sub-headers, no plate
+  h3 {
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--secondary);
+    font-size: 1rem;
+    margin-top: 1.4rem;
+  }
+
+  h1 {
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  // Tables → HUD panels (VT323 is already your code font)
+  table {
+    font-family: "VT323", monospace;
+    font-size: 1.1rem;
+    border: 1px solid var(--lightgray);
+  }
+  th {
+    color: var(--secondary);
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    border-bottom: 1px solid var(--gray);
+  }
+  td { border-bottom: 1px solid var(--lightgray); }
+  tr:hover td { background: var(--highlight); }
+
+  // Hard divider
+  hr {
+    border: none;
+    height: 1px;
+    background: var(--tertiary);
+    margin: 2rem 0;
+  }
+
+  // Blockquotes / callouts
+  blockquote {
+    border-left: 3px solid var(--tertiary);
+    background: var(--highlight);
+    padding: 0.6rem 1rem;
+  }
+}
+
+// --- Concrete field ---
+body {
+  background-color: #26241f;
+  background-image:
+   radial-gradient(circle at 50% 0%, rgba(255,255,255,0.03), transparent 70%),
+    radial-gradient(rgba(255, 255, 255, 0.025) 1px, transparent 1px),
+    radial-gradient(rgba(0, 0, 0, 0.20) 1px, transparent 1px);
+  background-size: 6px 8px, 6px 8px;
+  background-position: 0 0, 2px 3px;
+}
+
+// Content slab — sized to content, stays inside the column
+article {
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-top: 2px solid var(--tertiary);
+  border-radius: 2px;
+  padding: 1.5rem 2rem;
+  box-sizing: border-box;
+}
