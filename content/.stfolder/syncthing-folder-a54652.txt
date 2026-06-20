@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: rda39-xbfpc
+created: 2026-06-19T07:00:37-07:00

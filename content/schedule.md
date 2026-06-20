@@ -4,12 +4,12 @@ title: "Schedule"
 
 # Schedule & Phases
 
-| Phase | Points | Dates | Notes |
-|-------|--------|-------|-------|
-| 1 | 500 | TBD | Unpainted OK, proxies OK, teaching games encouraged |
-| 2 | 750 | TBD | Armageddon box halves are league-legal as-is |
-| 3 | 1000 | TBD | Painting bonus doubles this phase |
-| 4 | 1500 | TBD | Finale + awards night |
+| Phase | Points | Dates | Notes                             |
+| ----- | ------ | ----- | --------------------------------- |
+| 1     | 500    | TBD   | Getting started                   |
+| 2     | 1000   | TBD   | Halfway there                     |
+| 3     | 1500   | TBD   | Painting bonus doubles this phase |
+| 4     | 2000   | TBD   | Finale + awards night             |
 
 ## League Nights
 
