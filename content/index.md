@@ -10,7 +10,7 @@ A casual, beginner-friendly Warhammer 40,000 escalation league for the launch of
 
 ## Quick Links
 
-- [[league-rules|League Rules]]
+- [[content/league-rules/index|League Rules]]
 - [[schedule|Schedule & Phases]]
 - [[standings|Current Standings]]
 - [[awards|Awards]]
@@ -32,4 +32,4 @@ You start with a small army (500 points) and grow it each month. Play games at y
 | TBD | Phase 1 begins (500 pts) |
 | TBD | League finale |
 
-Questions? Find the league organizer at the store or check [[league-rules#contact|the rules page]].
+Questions? Find the league organizer at the store or check [[content/league-rules/index#contact|the rules page]].

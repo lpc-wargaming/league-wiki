@@ -16,7 +16,7 @@ Four monthly phases, then a tournament to cap it all off. Phase 1 runs long so n
 
 ## Pace
 
-About **one game every other week** — roughly two league games per phase, which is also the cap (both games count; see [[league-rules#scoring|Scoring]]). Want more 40k? Play friendlies anytime; they just don't score.
+About **one game every other week** — roughly two league games per phase, which is also the cap (both games count; see [[content/league-rules/index#scoring|Scoring]]). Want more 40k? Play friendlies anytime; they just don't score.
 
 ## League Nights
 

@@ -4,7 +4,7 @@ title: "Awards"
 
 # Awards
 
-Everything here sits beside the **League Champion**, which is won on points over in the [[league-rules#scoring|rules]]. One award you earn just by painting; the rest are handed out at the finale.
+Everything here sits beside the **League Champion**, which is won on points over in the [[content/league-rules/index#scoring|rules]]. One award you earn just by painting; the rest are handed out at the finale.
 
 ## Painting Stickers — Earned Every Phase
 
@@ -18,7 +18,7 @@ Given out once, on finale night. Kept short on purpose, so the votes don't scatt
 
 | Award | Decided by | Rewards |
 | --- | --- | --- |
-| **League Champion** | Most points — see [[league-rules#tiebreakers\|tiebreakers]] | Winning the league |
+| **League Champion** | Most points — see [[content/league-rules/index#tiebreakers\|tiebreakers]] | Winning the league |
 | **Best Painted** | Player vote | An army at its peak |
 | **Most Improved** | Player vote | How far your brush travelled |
 | **Best Sport** | Player vote | Being the opponent people want to face again |
