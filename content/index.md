@@ -10,9 +10,11 @@ A casual, beginner-friendly Warhammer 40,000 escalation league for the launch of
 
 ## Quick Links
 
-- [[ARC_2026-06-19_league-rules|League Rules]]
+- [[league-rules|League Rules]]
 - [[schedule|Schedule & Phases]]
 - [[standings|Current Standings]]
+- [[awards|Awards]]
+- [[warzone|The Warzone]]
 - [[missions/index|Missions]]
 - [[resources|Resources & Buyer's Guides]]
 
@@ -30,4 +32,4 @@ You start with a small army (500 points) and grow it each month. Play games at y
 | TBD | Phase 1 begins (500 pts) |
 | TBD | League finale |
 
-Questions? Find the league organizer at the store or check [[ARC_2026-06-19_league-rules#contact|the rules page]].
+Questions? Find the league organizer at the store or check [[league-rules#contact|the rules page]].

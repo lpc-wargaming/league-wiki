@@ -5,83 +5,58 @@ title: "League Rules"
 # League Rules
 
 > [!warning] Draft
-> 11th Edition rules are still rolling out. Points values and mission references will be finalized once the core rulebook is in hand.
-
-## The Short Version
-
-Start a 500-point army. Grow it. Paint it. Play a game every couple of weeks against people who started exactly where you are. By the finale you'll have a painted 1500–2000 point army and a stack of opponents you've beaten (and lost to).
-
-Two ideas run the whole league:
-
-- **Phase** = the month. It sets the league's default pace.
-- **Tier** = *your army's* current points level. Each army climbs the tier ladder (500 → 1000 → 1500 → 2000) on its own clock.
-
-They don't have to match. That's what lets people join late, fall behind, or switch armies without breaking anything.
+> 11th Edition rules are still rolling out. Points values and missions will be finalized once the core rulebook is in hand.
 
 ## Format
 
-- **Phases:** 4 monthly phases — the calendar that paces the league. See [[schedule|Schedule & Phases]].
-- **Tiers:** 500 → 1000 → 1500 → 2000 points. Each army advances through these (see *Climbing the Ladder* below).
-- **Pace:** roughly **one game every other week** — about 2 games a month, which lines up with how many count (below). Play more if you're keen; play less if life is busy.
-- **Lists:** rebuild freely between tiers, but units you've already fielded are encouraged to stay — this is your army *growing*, not a new army each month.
+- **Phases:** 4 monthly phases — 500 → 750 → 1000 → 1500 points. Phase 1 runs long for a relaxed start.
+- **Pace:** about one game every other week — roughly two league games per phase.
+- **Lists:** rebuild between phases, but units you've already fielded are encouraged to stay — your army is growing, not restarting.
 - **Rules:** 11th Edition matched play, missions from the current Chapter Approved deck.
+- **2000-point tournament** caps the league — a separate, open event for everyone. See [[schedule|Schedule]].
 
 ## Scoring
 
-Per game:
+Points accumulate across the whole season. **Most points at the finale wins the league.**
+
+**Up to two league games count each phase, and both count** — win, draw, or loss. No playing extra and keeping only your best; decide whether a game counts *before* you play it. Anything beyond your two is a friendly and doesn't score.
 
 | Result | Points |
-|--------|--------|
-| Win    | 3      |
-| Draw   | 2      |
-| Loss   | 1      |
+| --- | --- |
+| Win | 3 |
+| Draw | 2 |
+| Loss | 1 |
+| Army fully painted for the phase (3 colours + based) | +2 |
+| Battle report or army photo on the wiki | +1 |
 
-Bonuses:
+Painting and battle-report bonuses are each earned **once per phase**.
 
-| Bonus | Points |
-|-------|--------|
-| First game vs. a new opponent (each phase) | +1 |
-| Army fully painted for its current tier (3 colors + based), once per phase | +2 |
-| Submit a short battle report or army photo for the [[standings\|wiki]] | +1 |
+## Tiebreakers
 
-**Result points are tier-agnostic** — a win is 3 points whether it's a 500 or 2000 point game. Being a smaller army never costs you.
+Between players tied on total points, in order:
 
-**The cap:** only your **best 2 scored games per phase** count toward standings. Play as many as you like — bad games don't follow you, and nobody can grind the standings by playing twelve games in a weekend.
+1. **Most phases fully painted** — this is a painting league first.
+2. **Most wins** — more wins beats more draws.
+3. **Championship match** — still level? The two play a decider at the finale.
 
-**League Champion** is decided on your **best 3 of 4 phases**, so one missed, late, or rough month doesn't sink you.
+## Awards
 
-> The cap and Champion math are per *player*. If you'd rather let two-army players score separately, make the 2-game cap per *army* instead — more generous, but easier to out-grind with extra models.
+Best Painted, Most Improved, Best Sport, the Wooden Spoon, and the per-phase painting stickers all live on the [[awards|Awards]] page. League Champion is decided here, on points.
 
-## Climbing the Ladder
+## The Warzone
 
-The phase calendar is the **default** pace, not a gate. Advance your army to the next tier when you've:
+Every league game is also a battle in **[[warzone|The Warzone]]**, a narrative territory campaign for the setting. You report a result once and it counts twice — toward your league standing *and* your faction's hold on the map. The Warzone is its own contest with its own prize, separate from the League Champion, and a new player's faction can enter the story at any point, so nobody is shut out for joining late.
 
-1. Played your scored games at the current tier, **and**
-2. Painted that tier (3 colors + based).
-
-Hit both and you may move up — even ahead of the calendar. Stay at a tier as long as you like if you'd rather take it slow. Painting is the only real gate, because a painted army is the whole point.
-
-## Joining Late, Falling Behind, or Switching Armies
-
-One rule covers all three: **every army climbs the ladder on its own clock.**
-
-- **Joining late** → you start at Tier 1 (500 pts), the same on-ramp everyone had in month one. You're never dropped into a 2000-point game cold.
-- **Falling behind** → totally fine. Stay at whatever tier you've painted and keep playing; you score the same per game at any size. Want to catch up in army size? Use *Climbing the Ladder* above — paint a tier, jump up, repeat. A keen player can climb two tiers in a month.
-- **Switching armies** → costs you nothing. Your league points belong to **you**, not your army. Start the new army at Tier 1 and keep your standing.
-
-**Mismatched armies?** Play at the smaller army's tier, or any tier you both agree on. Result points are identical at every tier, so just pick a size and play.
+> [!note] In progress
+> Full Warzone rules are still being finalized — see [[warzone|the Warzone page]] for the working draft.
 
 ## Sportsmanship
 
-This league exists to get people playing. Rules disputes: roll a d6, move on, look it up after the game. Slow-play, gotcha rules-lawyering, and netlist-stomping new players are all worth less than being someone people want to play again.
+This league exists to get people playing. Rules disputes: roll a d6, move on, look it up after the game. Slow-play, gotcha rules lawyering, and netlist-stomping new players are all worth less than being someone people want to play again.
 
-## New Player Accommodations
+## New Players
 
-- **Teaching games:** your first game can be a demo run by the organizer or a veteran — it won't count against your standings unless you want it to. Ask anytime.
-- **List checks:** any veteran will sanity-check your first list in five minutes. Ask before you buy if you're unsure.
-- **Narrative rules optional:** the default is simple matched play. Crusade/narrative add-ons are there if you want them, ignorable if you don't.
-
-New to all of this? Start with the [[getting-started|Getting Started Guide]].
+New? Just let us know — this is the perfect time to start. Want a learning or demo game? Someone will be happy to walk you through it.
 
 ## Contact
 

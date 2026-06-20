@@ -4,20 +4,24 @@ title: "Schedule"
 
 # Schedule & Phases
 
-| Phase | Points | Dates | Notes                             |
-| ----- | ------ | ----- | --------------------------------- |
-| 1     | 500    | TBD   | Getting started                   |
-| 2     | 1000   | TBD   | Halfway there                     |
-| 3     | 1500   | TBD   | Painting bonus doubles this phase |
-| 4     | 2000   | TBD   | Finale + awards night             |
+Four monthly phases, then a tournament to cap it all off. Phase 1 runs long so nobody feels rushed getting started.
+
+| Phase | Army size | Dates | Notes |
+| --- | --- | --- | --- |
+| 1 | 500 pts | TBD | Relaxed start — extra time to build and paint |
+| 2 | 750 pts | TBD | |
+| 3 | 1000 pts | TBD | |
+| 4 | 1500 pts | TBD | Finale + awards night |
+| Tournament | 2000 pts | TBD | Separate, open event — everyone welcome |
+
+## Pace
+
+About **one game every other week** — roughly two league games per phase, which is also the cap (both games count; see [[league-rules#scoring|Scoring]]). Want more 40k? Play friendlies anytime; they just don't score.
 
 ## League Nights
 
-**[DAY] evenings at [STORE NAME]**, but any game played at the store between league members counts — report results to the organizer or post them in [DISCORD/CHANNEL].
+**[DAY] evenings at [STORE NAME]** — but any game played at the store between league members counts. Report results to the organizer or post them in [DISCORD/CHANNEL].
 
-## Awards
+## Awards Night
 
-- **League Champion** — most league points
-- **Best Painted** — voted at the finale
-- **Best Sport** — voted by players
-- **Iron Hobbyist** — most games played
+The finale doubles as awards night. The full slate — League Champion, Best Painted, Most Improved, Best Sport, the Wooden Spoon, and the Iron Hobbyist capstone — lives on the [[awards|Awards]] page.
