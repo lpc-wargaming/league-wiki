@@ -14,7 +14,7 @@ The **Armageddon launch box** (Orks vs Space Marines) is a great value if either
 
 ## Step 2: Get to 500 Points
 
-Most factions have a **Combat Patrol box** that gets you most of the way to 500 points in one purchase. See [[resources|the buyer's guides]](WIP) for per-faction recommendations.
+Most factions have a **Combat Patrol box** that gets you most of the way to 500 points in one purchase. See [[content/resources/index|the buyer's guides]](WIP) for per-faction recommendations.
 
 You do **not** need:
 - A painted army (this league is to encourage painting your army, we won't shame you for being behind!)

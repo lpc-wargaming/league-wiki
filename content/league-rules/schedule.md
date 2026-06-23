@@ -6,14 +6,14 @@ title: "Schedule"
 
 Four monthly phases, then a tournament to cap it all off. Phase 1 runs long so nobody feels rushed getting started.
 
-| Phase      | Army size | Dates | Notes                                         |
-| ---------- | --------- | ----- | --------------------------------------------- |
-| 1          | 500 pts   | TBD   | Relaxed start — extra time to build and paint |
-| 2          | 750 pts   | TBD   |                                               |
-| 3          | 1000 pts  | TBD   |                                               |
-| 4          | 1500 pts  | TBD   |                                               |
-| 5          | 2000 pts  | TBD   | Finale + awards night                         |
-| Tournament | 2000 pts  | TBD   | Separate, open event — everyone welcome       |
+| Phase      | Army size | Dates | Notes                                                        |
+| ---------- | --------- | ----- | ------------------------------------------------------------ |
+| 1          | 500 pts   | TBD   | Relaxed start — extra time to build and paint                |
+| 2          | 750 pts   | TBD   |                                                              |
+| 3          | 1000 pts  | TBD   |                                                              |
+| 4          | 1500 pts  | TBD   |                                                              |
+| 5          | 2000 pts  | TBD   | Finale + awards night                                        |
+| Tournament | 2000 pts  | TBD   | Separate, open event — everyone welcome. If there's interest |
 
 ## Pace
 

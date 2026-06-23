@@ -16,7 +16,7 @@ A casual, beginner-friendly Warhammer 40,000 escalation league for the launch of
 - [[awards|Awards]]
 - [[warzone|The Warzone]]
 - [[missions/index|Missions]]
-- [[resources|Resources & Buyer's Guides]]
+- [[content/resources/index|Resources & Buyer's Guides]]
 
 ## What is an Escalation League?
 
