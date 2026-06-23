@@ -6,13 +6,14 @@ title: "Schedule"
 
 Four monthly phases, then a tournament to cap it all off. Phase 1 runs long so nobody feels rushed getting started.
 
-| Phase | Army size | Dates | Notes |
-| --- | --- | --- | --- |
-| 1 | 500 pts | TBD | Relaxed start — extra time to build and paint |
-| 2 | 750 pts | TBD | |
-| 3 | 1000 pts | TBD | |
-| 4 | 1500 pts | TBD | Finale + awards night |
-| Tournament | 2000 pts | TBD | Separate, open event — everyone welcome |
+| Phase      | Army size | Dates | Notes                                         |
+| ---------- | --------- | ----- | --------------------------------------------- |
+| 1          | 500 pts   | TBD   | Relaxed start — extra time to build and paint |
+| 2          | 750 pts   | TBD   |                                               |
+| 3          | 1000 pts  | TBD   |                                               |
+| 4          | 1500 pts  | TBD   |                                               |
+| 5          | 2000 pts  | TBD   | Finale + awards night                         |
+| Tournament | 2000 pts  | TBD   | Separate, open event — everyone welcome       |
 
 ## Pace
 
@@ -20,7 +21,7 @@ About **one game every other week** — roughly two league games per phase, whic
 
 ## League Nights
 
-**[DAY] evenings at [STORE NAME]** — but any game played at the store between league members counts. Report results to the organizer or post them in [DISCORD/CHANNEL].
+**[DAY] evenings at [STORE NAME]** — but any game played at the store between league members counts. Report results to the organizer or post them in [DISCORD/CHANNEL]. Want to join, but can't make it into the store? Ask the organizer. We'll figure something out.
 
 ## Awards Night
 
