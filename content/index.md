@@ -10,26 +10,26 @@ A casual, beginner-friendly Warhammer 40,000 escalation league for the launch of
 
 ## Quick Links
 
-- [[content/league-rules/index|League Rules]]
+- [[league-rules/index|League Rules]]
 - [[schedule|Schedule & Phases]]
 - [[standings|Current Standings]]
 - [[awards|Awards]]
 - [[warzone|The Warzone]]
 - [[missions/index|Missions]]
-- [[content/resources/index|Resources & Buyer's Guides]]
+- [[resources/index|Resources & Buyer's Guides]]
 
 ## What is an Escalation League?
 
-You start with a small army (500 points) and grow it each month. Play games at your own pace, paint as you go, and by the end of the league you'll have a full 2000-point painted army — and a bunch of new opponents who started exactly where you did.
+You start with a small army (500 points) and grow it each month. Play games at a relaxed pace, paint as you go, and by the end of the league you'll have a full 2000-point painted army.
 
 **No experience required. No painted models required to start. Just show up.**
 
 ## Key Dates
 
-| Date | Event |
-|------|-------|
-| TBD | Sign-ups open |
-| TBD | Phase 1 begins (500 pts) |
-| TBD | League finale |
+| Date      | Event                    |
+| --------- | ------------------------ |
+| July 2026 | Sign-ups open            |
+| Aug 2026  | Phase 1 begins (500 pts) |
+|           | League finale            |
 
 Questions? Find the league organizer at the store or check [[content/league-rules/index#Contact|the rules page]].
