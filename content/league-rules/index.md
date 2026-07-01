@@ -77,20 +77,13 @@ You're still in the running for the [[awards|Iron Hobbyist]] too — it asks tha
 
 ## Narrative
 
-There are no narrative play rules, but you're highly encouraged to engage with the story. We're collaboratively building a lore-wiki for the bespoke setting, and every game is also a battle in **[[warzone|The Warzone]]** — so a single result can feed your league standing, the campaign map, and the world's history all at once.
+There are no narrative play rules, but you're highly encouraged to engage with the story. We're collaboratively building a lore-wiki for the bespoke setting so a single result can feed your league standing, the campaign map, and the world's history all at once.
 
 It doesn't take much. A few standout moments jotted down counts. A full in-universe dispatch is a gift to the setting. There are printed **Battle Journals** at the store if you'd like something to scribble on mid-game — fill in as little or as much as you like. None of it is worth league points, so there's zero pressure if it's not your thing — but there *is* an award for whoever best brings their army to life: the [[awards|Remembrancer]].
 
 ## Awards
 
 The full slate — League Champion, Best Painted, Most Improved, the Remembrancer, the Wooden Spoon, and the painting stickers that build toward Iron Hobbyist — lives on the [[awards|Awards]] page. League Champion is decided here, on points.
-
-## The Warzone
-
-Every league game is also a battle in **[[warzone|The Warzone]]**, a narrative territory campaign for the setting. You report a result once and it counts twice — toward your league standing *and* your faction's hold on the map. The Warzone is its own contest with its own prize, separate from the League Champion, and a new player's faction can enter the story at any point, so nobody is shut out for joining late.
-
-> [!note] In progress
-> Full Warzone rules are still being finalized — see [[warzone|the Warzone page]] for the working draft.
 
 ## Sportsmanship
 

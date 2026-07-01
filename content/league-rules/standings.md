@@ -12,4 +12,4 @@ title: "Standings"
 
 **Points** include wins, draws, and losses plus the painting and battle-report bonuses (see [[content/league-rules/index#scoring|Scoring]]). The last two columns double as the tiebreakers: a tie is broken first by **Phases Painted**, then by **most wins** (see [[content/league-rules/index#tiebreakers|Tiebreakers]]).
 
-Results are reported to the organizer and update weekly. The Warzone's territory map is tracked separately on [[warzone|the Warzone page]].
+Results are reported to the organizer and update weekly.
