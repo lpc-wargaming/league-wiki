@@ -8,12 +8,12 @@ Five monthly phases, then a tournament to cap it all off. Phase 1 runs long so n
 
 | Phase      | Army size | Dates | Notes                                                     |
 | ---------- | --------- | ----- | --------------------------------------------------------- |
-| 1          | 500 pts   | Aug   | Relaxed start. Try to make sure everyone's on track       |
-| 2          | 750 pts   | Sept  | Small increase. While we're getting going                 |
-| 3          | 1000 pts  | Oct   |                                                           |
-| 4          | 1500 pts  | Nov   |                                                           |
-| 5          | 2000 pts  | Dec   | Awards night                                              |
-| Tournament | 2000 pts  | Jan   | Optional capstone event. Very casual. If there's interest |
+| 1          | 500 pts   | Sept  | Relaxed start. Try to make sure everyone's on track       |
+| 2          | 750 pts   | Oct   | Small increase. While we're getting going                 |
+| 3          | 1000 pts  | Nov   |                                                           |
+| 4          | 1500 pts  | Dec   |                                                           |
+| 5          | 2000 pts  | Jan   | Awards night                                              |
+| Tournament | 2000 pts  | TBD   | Optional capstone event. Very casual. If there's interest |
 
 ## Pace
 
@@ -21,7 +21,7 @@ About **one game every other week**. Roughly two league games per phase, which i
 
 ## League Nights
 
-**Thursday evenings at the Let's Play**, but any game played at the store between league members counts. Report results to the organizer or post them in [LPC DISCORD CHANNEL]. Want to join, but can't make it into the store? Ask the organizer. We'll figure something out.
+**Thursday evenings at the Let's Play**, but any game played at the store between league members counts. Report results to the organizer or post them in the [Let's Play Cafe's Discord server](https://discord.gg/pS9vJfTMy8). Want to join, but can't make it into the store? Ask the organizer. We'll figure something out.
 
 ## Awards Night
 

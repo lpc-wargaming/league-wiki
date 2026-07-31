@@ -27,8 +27,8 @@ You start with a small army (500 points) and grow it each month. Play games at a
 
 | Date      | Event                    |
 | --------- | ------------------------ |
-| July 2026 | Sign-ups open            |
-| Aug 2026  | Phase 1 begins (500 pts) |
+| Aug 2026  | Sign-ups open            |
+| Sept 2026 | Phase 1 begins (500 pts) |
 |           | League finale            |
 
 Questions? Find the league organizer at the store or check [[content/league-rules/index#Contact|the rules page]].

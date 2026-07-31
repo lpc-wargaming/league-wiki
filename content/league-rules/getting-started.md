@@ -27,15 +27,17 @@ Free official app: the 40k app handles list-building. Ask the organizer or any v
 
 Old school pen and paper or spreadsheets are also fine. Just make sure that everything is accurate!
 
-There are also other free, unofficial apps that many players prefer. Currently they may not be up to date with the new edition, but they'll catch up!
+There are also other free, unofficial apps that many players prefer. Some examples are,
 
-WarOrgan: a lesser known app that feels extremely user friendly and intuitive to use.
+[WarOrgan](https://warorgan.com/): a lesser known app that feels extremely user friendly and intuitive to use.
 
-New Recruit: a powerful and beloved list-building app for many game systems. A bit on the technical side, but often a go-to.
+[New Recruit](https://www.newrecruit.eu/): a powerful and beloved list-building app for many game systems. A bit on the technical side, but often a go-to.
 
 ## Step 4: Play
 
 Show up on league nights, find an opponent, play. Your first game can be a teaching game with a veteran — it won't count against your standings unless you want it to.
+
+[GDM 2026](https://game-datamissions.com/11th): A great resource to read the mission cards as well as a bunch of other rules.
 
 ## Common Questions
 
