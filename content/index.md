@@ -15,7 +15,7 @@ A casual, beginner-friendly Warhammer 40,000 escalation league for the launch of
 - [[standings|Current Standings]]
 - [[awards|Awards]]
 - [[missions/index|Missions]]
-- [[resources/index|Resources & Buyer's Guides]]
+- [[resources/index|Resources]]
 
 ## What is an Escalation League?
 
@@ -23,12 +23,5 @@ You start with a small army (500 points) and grow it each month. Play games at a
 
 **No experience required. No painted models required to start. Just show up.**
 
-## Key Dates
-
-| Date      | Event                    |
-| --------- | ------------------------ |
-| Aug 2026  | Sign-ups open            |
-| Sept 2026 | Phase 1 begins (500 pts) |
-|           | League finale            |
 
 Questions? Find the league organizer at the store or check [[content/league-rules/index#Contact|the rules page]].
