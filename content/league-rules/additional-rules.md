@@ -16,8 +16,6 @@ Ideally we are making narrative armies full of "my guys" in this campaign, but s
 
 Because of this, you are allowed to include named characters in your list, but instead of using the canonical persona of the character, you are encouraged to use your own version.
 
-For example, instead of Roboute Guilliman, primarch of the Ultramarines Legion and Lord of Ultramar or THE Abaddon the Despoiler trouncing around on our campaign's humble planet, consider Rowboat Girlyman, really smart guy who just happens to be huge and handsome or your custom Chaos Lord Undivided who may or may not have a glorious top knot.
-
 ## Low Point Games
 
  The game is balanced for 2000pts, so sometimes games at lower point values, the rules don't work quite as intended. To do this we will compensate where we can to try and make it work a bit better.
