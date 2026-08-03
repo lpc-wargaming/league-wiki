@@ -8,22 +8,23 @@ Never played 40k? Perfect. This league is built for you.
 
 ## Step 1: Pick a Faction
 
-Pick the army that looks coolest to you. Seriously — you'll be painting and playing these models for months, so aesthetics matter more than rules. Browse factions at [warhammer.com](https://www.warhammer.com) or ask anyone at the store. Rules change, editions come and go. Play something that speaks to you!
+Pick the army that looks coolest to you. Seriously, you'll be painting and playing these models for months, so aesthetics matter more than rules. Browse factions at [warhammer.com](https://www.warhammer.com) or ask anyone at the store. Rules change, editions come and go. Play something that speaks to you!
 
 The **Armageddon launch box** (Orks vs Space Marines) is a great value if either faction appeals to you — each half is roughly a league-ready starting force, and you can often split the box with another player.
 
 ## Step 2: Get to 500 Points
 
-Most factions have a **Combat Patrol box** that gets you most of the way to 500 points in one purchase. See [[content/resources/index|the buyer's guides]](WIP) for per-faction recommendations.
+The Warhammer website has a section for [starter sets](https://www.warhammer.com/en-US/shop/warhammer-40000/starter-sets). Often these will be a relatively good value compared to buying them separately. 
 
-You do **not** need:
-- A painted army (this league is to encourage painting your army, we won't shame you for being behind!)
-- The big rulebook (core rules are free as a PDF from Games Workshop. Also, Wahapedia)
-- To know the rules (we'll teach you in your first game)
+Most factions have a **Combat Patrol box** that gets you most of the way to 500 points in one purchase.
+
+There are also often other boxes that you can split with a friend for a great deal, like the **Starter Set**.
+
+Just remember to buy from the **Let's Play** whenever you can. Support your local game store!
 
 ## Step 3: Build a List
 
-Free official app: the 40k app handles list-building. Ask the organizer or any veteran to check your first list — it takes five minutes.
+There is a free, official 40k app handles list-building. Ask the organizer or any veteran for help or to check your first list, if you're not confident.
 
 Old school pen and paper or spreadsheets are also fine. Just make sure that everything is accurate!
 
@@ -38,6 +39,8 @@ There are also other free, unofficial apps that many players prefer. Some exampl
 Show up on league nights, find an opponent, play. Your first game can be a teaching game with a veteran — it won't count against your standings unless you want it to.
 
 [GDM 2026](https://game-datamissions.com/11th): A great resource to read the mission cards as well as a bunch of other rules.
+
+[Wahapedia](https://wahapedia.ru/wh40k11ed/the-rules/core-rules/): If you want all the rules in one place. This is where you go. Wahapedia is your friend.
 
 ## Common Questions
 
