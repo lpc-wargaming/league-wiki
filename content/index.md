@@ -14,7 +14,6 @@ A casual, beginner-friendly Warhammer 40,000 escalation league for the launch of
 - [[schedule|Schedule & Phases]]
 - [[standings|Current Standings]]
 - [[awards|Awards]]
-- [[missions/index|Missions]]
 - [[resources/index|Resources]]
 
 ## What is an Escalation League?

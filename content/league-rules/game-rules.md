@@ -1,5 +1,5 @@
 ---
-title: Additional rules
+title: Game Rules
 ---
 
 ## Legends
@@ -12,9 +12,14 @@ A splash of Legends should be no big deal, but if most of your force is comprise
 
 ## Named Characters
 
-Ideally we are making narrative armies full of "my guys" in this campaign, but some named characters can be essential for how an army functions.
+Ideally, we are making narrative armies full of "my guys" in this campaign, but some named characters can be essential for how an army functions.
 
 Because of this, you are allowed to include named characters in your list, but instead of using the canonical persona of the character, you are encouraged to use your own version.
+
+## WYSIWYG
+*"What You See Is What You Get"*
+
+Whenever possible, try to make sure the weapons/loadouts on your models match your list. If they don't, be sure it's easy for others to tell what's what and please clear them with your opponent beforehand.
 
 ## Low Point Games
 
@@ -24,6 +29,6 @@ Because of this, you are allowed to include named characters in your list, but i
 
 ### Army Construction
 
- This will start with list building, so try not to make some unkillable unit dressed loaded with buffs that no one is equipped to deal with. Likewise spamming the hardest, most efficient unit, and trampling the other players to win some janky low points games, is a pretty shallow victory. 
+ This will start with list building, so try not to make some unkillable unit loaded with buffs that no one is equipped to deal with. Likewise, spamming the hardest, most efficient unit and trampling the other players to win some janky low points games, is a pretty shallow victory. 
 
 Instead, making a varied list with fundamental units can be a great way to learn the game. It will also likely be a better way to start building up a collection that will still be fun to play when the banhammer drops on whatever the latest hotness was.

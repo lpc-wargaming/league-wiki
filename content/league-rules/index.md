@@ -9,7 +9,7 @@ title: "League Rules"
 
 No better way to kick off the new edition than with an escalation league: something casual, easy for new players to learn the game, and a reason to finally get an army painted.
 
-You don't need a brand-new army. Pull something from the backlog and finish it, or repaint an old force to your current skill; both are squarely in the spirit. What's *not* in the spirit is showing up with a finished 2000pt army for free points. The hobby is the point, so the rule that follows from it is simple: **each phase, the army grows and the new work gets painted.** Everything else hangs off that.
+You don't need a brand-new army. Pull something from the backlog and finish it, or repaint an old force to your current skill; both are squarely in the spirit. What's *not* in the spirit is showing up with a finished 2000pt army for free points. The hobby is the point, so the rule that follows from it is simple: **each phase, the army grows and the new work gets painted.** That's the main idea.
 
 ## Format
 
@@ -36,7 +36,7 @@ If you fewer league points than opponent, you're the Underdog. This is checked p
 
 ### Painting
 
-Painting feeds the same league total, but it runs on its own clock. It's a parallel track you can catch up on whenever life allows. Paint a phase's army to tabletop standard (if you don't know what that means, ask) and earn **+2 league points**.
+Painting feeds the same league point total, but it runs on its own clock. It's a parallel track you can catch up on whenever life allows. Paint a phase's army to tabletop standard (3 color minimum, basecoats with basing) and earn **+2 league points**.
 
 | Phase | Army size | Painting points |
 | ----- | --------- | --------------- |
@@ -48,7 +48,7 @@ Painting feeds the same league total, but it runs on its own clock. It's a paral
 
 **Claim any time before the finale**, for any phase from the one you joined onward. Behind on painting? Dedicate a weekend, finish what you missed, and bank every point you'd left on the table. Someone playing grey plastic until phase 5 and then painting their whole force in a final push is a legal (and very impressive) move. 
 
-Be careful though. building up an army of grey can quickly get overwhelming, discourage you, and lose momentum. Try to keep up the best you can.
+Be careful though. Building up an army of grey can quickly get overwhelming, discourage you, and lose your momentum. Try to keep up the best you can.
 
 ## Tiebreakers
 
@@ -65,11 +65,10 @@ You can join at any phase, or start over with a new army at any time. The trick 
 - **Game points**: Wins, draws, losses, Underdog. When you join, these start level with **whoever is currently last**, so the games you weren't here for don't bury you.
 - **Painting points**: These always start at **zero** and are only ever earned by painting. You can claim them for any phase from your join onward, whenever you finish the work.
 
-
 > [!example] Joining in Phase 3
 > Last place has lost 4 games (4 pts) and fully painted 2 phases (+4) — **8 total**. You join in Phase 3 with an unpainted army: your game points start at **4** to match them, your painting at **0**. Paint your army and you climb, the same as everyone else does.
 
-You're still in the running for the [[awards|Iron Hobbyist]] too. Getting that army painted is the most important thing.
+Late joiners are still in the running for the [[awards|Iron Hobbyist]] too. Getting that army painted is the most important thing.
 
 ## Sportsmanship
 
@@ -79,7 +78,7 @@ This league exists to get people playing. If there's no veteran to settle a rule
 
 New? Just let us know. This is the perfect time to start. Want a learning or demo game? Someone will be happy to walk you through it. Many players have more than one army, so you don't even need models to begin.
 
-See [[getting-started]] for additional tips.
+See [[getting-started|Getting Started]] for additional tips.
 
 ## Narrative
 
@@ -94,7 +93,6 @@ Iron Hobbyist, League Champion, Best Painted, Most Improved, the Remembrancer, a
 ## Swag
 
 Game aids, stickers, pins, other fun stuff. Memorabilia for joining in on the journey. You may find yourself accumulating some loot over the course of the league.
-
 
 ## The Tournament
 
