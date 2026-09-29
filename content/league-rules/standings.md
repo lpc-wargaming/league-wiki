@@ -6,7 +6,7 @@ title: "Standings"
 
 *Updated: 2026-09-28*
 
-| Rank | Player                         | Faction           | Points |     | W   | D   | L   | Game Points | Paint Points |
+| Rank | Player                         | Faction           | Points | \|  | W   | D   | L   | Game Points | Paint Points |
 | ---- | ------------------------------ | ----------------- | ------ | --- | --- | --- | --- | ----------- | ------------ |
 | 1    | David / Argaen                 | Space Wolves      | 9      |     | 2   | 0   | 1   | 7           | 2            |
 | 2    | Will / A Gassy Dwarf           | Tau               | 9      |     | 2   | 0   | 1   | 7           | 2            |
@@ -28,4 +28,4 @@ title: "Standings"
 | 18   | Roy / Dodeca_heathen           | Necrons           | 0      |     | 0   | 0   | 0   | 0           | 0            |
 | 19   | Tim / tcoop                    | Tau (Kroot)       | 0      |     | 0   | 0   | 0   | 0           | 0            |
 
-**Points** include wins, draws, and losses plus the painting score bonuses (see [[content/league-rules/index#scoring|Scoring]] and [[content/league-rules/index#tiebreakers|Tiebreakers]]).
+**Points** include wins, draws, and losses plus the painting score bonuses (see [[content/league-rules/index#scoring|Scoring]] and [[content/league-rules/index#tiebreakers|Tiebreakers]]). Scroll to the side for breakdown.
