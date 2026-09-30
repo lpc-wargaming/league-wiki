@@ -15,7 +15,7 @@ You don't need a brand-new army. Pull something from the backlog and finish it, 
 
 - **Phases:** 5 monthly phases: 500 → 750 → 1000 → 1500 → 2000 points. Phases 2 and 3 step up gently for a relaxed start.
 - **Pace:** about one game every other week. That's roughly two league games per phase.
-- **Growth:** add **at least one new unit each phase.** The painting bonus rewards *that phase's new additions* (see [Painting](#painting)), so the army keeps growing and a static, already-finished force can't farm points by standing still.
+- **Growth:** add **at least one new unit each phase.** The painting bonus rewards *that phase's new additions* (see [Painting](#painting)), so the army keeps growing and a static, already-finished force can't farm points by standing still. Finishing an old army is great, but don't be "that guy" trying to score free points.
 - **Lists:** rebuild between phases, but units you've already fielded are encouraged to stay. Your army is growing, not restarting.
 - **Rules:** 11th Edition matched play, missions from the current Chapter Approved deck. Most recent FAQs and points updates whenever possible (see [Warhammer Community Downloads](https://www.warhammer-community.com/en-gb/downloads/warhammer-40000/)).
 
@@ -23,16 +23,15 @@ You don't need a brand-new army. Pull something from the backlog and finish it, 
 
 Points accumulate across the whole season. **Most points at the finale wins the league.**
 
-Up to **two league games count each phase, and both count**. Win, draw, or loss. No playing extra and keeping only your best: decide whether a game counts *before* you roll. Anything beyond your two is a friendly and doesn't score.
+Up to **two league games count each phase, and both count**. Win, draw, or loss. No playing extra and keeping only your best. Anything beyond your two is a friendly and doesn't score.
 
-| Per counting game                            | Points |
-| -------------------------------------------- | ------ |
-| Win                                          | 3      |
-| Draw                                         | 2      |
-| Loss                                         | 1      |
-| Underdog (fewer league points than opponent) | +1     |
-
-If you fewer league points than opponent, you're the Underdog. This is checked per game, at the points you each hold going in. On equal points, neither side is the underdog.
+However, you'll still want to submit any extra games played. Sometimes life gets in the way and you can't meet with your scheduled opponent. In those cases we might be able to use one of your extra games.
+ 
+| Per counting game | Points |
+| ----------------- | ------ |
+| Win               | 3      |
+| Draw              | 2      |
+| Loss              | 1      |
 
 ### Painting
 
@@ -62,7 +61,7 @@ Between players tied on total points, in order:
 
 You can join at any phase, or start over with a new army at any time. The trick is that your score has two parts, and they catch up differently:
 
-- **Game points**: Wins, draws, losses, Underdog. When you join, these start level with **whoever is currently last**, so the games you weren't here for don't bury you.
+- **Game points**: Wins, draws, losses. When you join, these start level with **whoever is currently last**, so the games you weren't here for don't bury you.
 - **Painting points**: These always start at **zero** and are only ever earned by painting. You can claim them for any phase from your join onward, whenever you finish the work.
 
 > [!example] Joining in Phase 3
